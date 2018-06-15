@@ -10,7 +10,7 @@ Practical Application Project based on Progressive Web App (PWA) concepts, Offli
 
 First step:
 --- 
-clone the repository with cmd `git clone` or download the whole repos as a zip and extract it into wherever you want in your local computer
+Clone the repository with cmd `git clone` or download the whole repos as a zip and extract it into wherever you want in your local computer
 
 Second step:
 ---
