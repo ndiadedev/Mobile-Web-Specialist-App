@@ -32,13 +32,11 @@ Once you have started the server, open the browser and navigate to `http://local
 
 # Testing PWA and Offline-First concepts with indexDB storage
 
-<<<<<<< HEAD
 Onece you run the MWS-Group-9 App explore and navigate through the pages 
 After that turn off you local server with  `ctrl+c` combination keyboard to be totally offline and you will notice `MWS-Group-9 App` will serve you as you want
-=======
 Once you run the MWS-Group-9 App explore and navigate through the pages 
 After that turn off your internet connection and be totally offline `MWS-Group-9 App` will serve you as you want
->>>>>>> 07c217024f05fea2574f650827ccb45dbe78c001
+
 
 # Building strategies
 
