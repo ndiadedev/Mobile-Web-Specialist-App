@@ -10,11 +10,11 @@ Practical Application Project based on Progressive Web App (PWA) concepts, Offli
 
 First step:
 --- 
-clone the repository with cmd `git clone` or download the whole repos as a zip and extracct it into wherever you want in your local computer
+Clone the repository with cmd `git clone` or download the whole repos as a zip and extract it into wherever you want in your local computer
 
 Second step:
 ---
-Once you complete the first step, navigate to the `/src` folder wiht the cmd `cd src` inside the folder run this cmd `npm install` to install the app dependencies
+Once you complete the first step, navigate to the `/src` folder with the cmd `cd src` inside the folder run this cmd `npm install` to install the app dependencies
 
 Third step:
 ---
@@ -32,18 +32,25 @@ Once you have started the server, open the browser and navigate to `http://local
 
 # Testing PWA and Offline-First concepts with indexDB storage
 
+<<<<<<< HEAD
 Onece you run the MWS-Group-9 App explore and navigate through the pages 
 After that turn off you local server with  `ctrl+c` combination keyboard to be totally offline and you will notice `MWS-Group-9 App` will serve you as you want
+=======
+Once you run the MWS-Group-9 App explore and navigate through the pages 
+After that turn off your internet connection and be totally offline `MWS-Group-9 App` will serve you as you want
+>>>>>>> 07c217024f05fea2574f650827ccb45dbe78c001
 
 # Building strategies
 
 * MWS-Group-9 App is a
 * Progressive Web Application
-* Offline-First
+* Offline-first
 * Precaching and cache first 
 * Handling Network First cache
 * IndexDB storage with js promise
 
 # Contribution
 
-Contributions are welcomed so to perform, make it more sustainable and profesional Feel free to fork and give starts 
+Contributions are welcomed so to perform, make it more sustainable and professional, feel free to fork the repo and submit pull requests.
+
+Happy coding!
