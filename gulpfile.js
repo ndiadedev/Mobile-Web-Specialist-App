@@ -13,8 +13,8 @@ gulp.task('clean', (done)=> {
 gulp.task('copy', ()=> {
   return mergeStream(
     gulp.src('src/images/**/*').pipe(gulp.dest('build/images/')),
-    gulp.src('src/scss/*').pipe(sass()).pipe(gulp.dest('build/css/')),
-	gulp.src('src/js/*').pipe(gulp.dest('build/js/')),
+     gulp.src('src/style/*').pipe(sass()).pipe(gulp.dest('build/style/')),
+     gulp.src('src/js/*').pipe(gulp.dest('build/js/')),
     gulp.src('src/sw/sw.js').pipe(gulp.dest('build/sw/')),  
     gulp.src('src/lib/**/*').pipe(gulp.dest('build/lib/')),
     gulp.src('src/pages/*').pipe(gulp.dest('build/pages/')),
