@@ -22,8 +22,7 @@ When done, run this cmd `npm install --global workbox-cli` this command will ins
 
 Fourth step:
 ---
-Then build and serve the app with these commands:
-`npm run build`
+Then serve the app with this command:
 `npm run start`
 
 ## Open the app and explore the code
@@ -32,8 +31,8 @@ Once you have started the server, open the browser and navigate to `http://local
 
 # Testing PWA and Offline-First concepts with indexDB storage
 
-Onece you run the MWS-Group-9 App explore and navigate through the pages 
-After that turn off you local server with  `ctrl+c` combination keyboard to be totally offline and you will notice `MWS-Group-9 App` will serve you as you want.
+Once you run the MWS-Group-9 App explore and navigate through the pages 
+After that turn off your internet connection and be totally offline `MWS-Group-9 App` will serve you as you want
 
 # Building strategies
 
